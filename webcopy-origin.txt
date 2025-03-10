@@ -1,0 +1,96 @@
+Uri: https://direct.maxtv.network/
+File Name: C:\Downloaded Web Sites\direct.maxtv.network\index.htm
+Content Type: text/html
+
+Uri: https://direct.maxtv.network/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\direct.maxtv.network\assets\css\bootstrap.min-1.css
+Content Type: text/css
+
+Uri: https://direct.maxtv.network/assets/css/style.css
+File Name: C:\Downloaded Web Sites\direct.maxtv.network\assets\css\style-1.css
+Content Type: text/css
+
+Uri: https://direct.maxtv.network/assets/img/android_pc.png
+File Name: C:\Downloaded Web Sites\direct.maxtv.network\assets\img\android_pc-1.png
+Content Type: image/png
+
+Uri: https://direct.maxtv.network/assets/img/apple_pc.png
+File Name: C:\Downloaded Web Sites\direct.maxtv.network\assets\img\apple_pc-1.png
+Content Type: image/png
+
+Uri: https://direct.maxtv.network/assets/img/devices_pc.png
+File Name: C:\Downloaded Web Sites\direct.maxtv.network\assets\img\devices_pc-1.png
+Content Type: image/png
+
+Uri: https://direct.maxtv.network/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\direct.maxtv.network\assets\js\bootstrap.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://direct.maxtv.network/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\direct.maxtv.network\assets\js\jquery.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://direct.maxtv.network/contact.php
+File Name: C:\Downloaded Web Sites\direct.maxtv.network\contact.php-1.html
+Content Type: text/html
+
+Uri: https://direct.maxtv.network/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\direct.maxtv.network\css\font-awesome.min-1.css
+Content Type: text/css
+
+Uri: https://direct.maxtv.network/dmca.php
+File Name: C:\Downloaded Web Sites\direct.maxtv.network\dmca.php-1.html
+Content Type: text/html
+
+Uri: https://direct.maxtv.network/privacy.php
+File Name: C:\Downloaded Web Sites\direct.maxtv.network\privacy.php-1.html
+Content Type: text/html
+
+Uri: https://direct.maxtv.network/register.php
+File Name: C:\Downloaded Web Sites\direct.maxtv.network\register.php-1.html
+Content Type: text/html
+
+Uri: https://direct.maxtv.network/signup.php
+File Name: C:\Downloaded Web Sites\direct.maxtv.network\signup.php-1.html
+Content Type: text/html
+
+Uri: https://i.imgur.com/GVhJyAR.jpg
+File Name: C:\Downloaded Web Sites\direct.maxtv.network\GVhJyAR.jpg
+Content Type: image/jpeg
+
+Uri: https://i.imgur.com/jkjAn7Y.png
+File Name: C:\Downloaded Web Sites\direct.maxtv.network\jkjAn7Y-1.png
+Content Type: image/png
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\direct.maxtv.network\font-awesome\4.3.0\fonts\fontawesome-webfont-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.eot?v=4.3.0
+File Name: C:\Downloaded Web Sites\direct.maxtv.network\font-awesome\4.3.0\fonts\fontawesome-webfont-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.svg?v=4.3.0
+File Name: C:\Downloaded Web Sites\direct.maxtv.network\font-awesome\4.3.0\fonts\fontawesome-webfont-1.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.ttf?v=4.3.0
+File Name: C:\Downloaded Web Sites\direct.maxtv.network\font-awesome\4.3.0\fonts\fontawesome-webfont-1.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.woff2?v=4.3.0
+File Name: C:\Downloaded Web Sites\direct.maxtv.network\font-awesome\4.3.0\fonts\fontawesome-webfont-1.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/fonts/fontawesome-webfont.woff?v=4.3.0
+File Name: C:\Downloaded Web Sites\direct.maxtv.network\font-awesome\4.3.0\fonts\fontawesome-webfont-1.woff
+Content Type: font/woff
+
+Uri: https://www.highperformanceformat.com/0eb5f090574b63070df10e1d329b19b5/invoke.js
+File Name: C:\Downloaded Web Sites\direct.maxtv.network\0eb5f090574b63070df10e1d329b19b5\invoke-1.js
+Content Type: application/javascript
+
+Uri: https://www.highperformanceformat.com/8b94204a7325b37f90afdfd898568d92/invoke.js
+File Name: C:\Downloaded Web Sites\direct.maxtv.network\8b94204a7325b37f90afdfd898568d92\invoke-1.js
+Content Type: application/javascript
+
